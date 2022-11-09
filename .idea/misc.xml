@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/activity_main.xml" value="0.3" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/activity_info_change_page.xml" value="0.1796875" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/activity_info_page.xml" value="0.12864583333333332" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/activity_register.xml" value="0.18854166666666666" />
         <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/fragment_friends_list.xml" value="0.3" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/fragment_login.xml" value="0.19427083333333334" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/fragment_register.xml" value="0.19427083333333334" />
         <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/fragment_search_friends.xml" value="0.22" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/main_page.xml" value="0.1875" />
+        <entry key="..\:/codedevelop/apps/FingerChat/app/src/main/res/layout/register_page.xml" value="0.19427083333333334" />
       </map>
     </option>
   </component>

@@ -45,4 +45,8 @@ dependencies {
     implementation "com.squareup.okhttp3:logging-interceptor:4.9.0"
     // Gson解析网络请求响应
     implementation "com.google.code.gson:gson:2.8.6"
+    // retrofit依赖
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.3.0'
+    implementation 'io.hyphenate:hyphenate-chat:3.9.5'
 }
